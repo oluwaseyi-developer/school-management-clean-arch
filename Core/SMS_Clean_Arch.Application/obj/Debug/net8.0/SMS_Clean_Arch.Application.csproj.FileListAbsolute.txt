@@ -1,0 +1,17 @@
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\SMS_Clean_Arch\Core\SMS_Clean_Arch.Application\bin\Debug\net8.0\SMS_Clean_Arch.Application.deps.json
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\SMS_Clean_Arch\Core\SMS_Clean_Arch.Application\bin\Debug\net8.0\SMS_Clean_Arch.Application.runtimeconfig.json
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\SMS_Clean_Arch\Core\SMS_Clean_Arch.Application\bin\Debug\net8.0\SMS_Clean_Arch.Application.dll
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\SMS_Clean_Arch\Core\SMS_Clean_Arch.Application\bin\Debug\net8.0\SMS_Clean_Arch.Application.pdb
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\SMS_Clean_Arch\Core\SMS_Clean_Arch.Application\bin\Debug\net8.0\SMS_Clean_Arch.Domain.dll
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\SMS_Clean_Arch\Core\SMS_Clean_Arch.Application\bin\Debug\net8.0\SMS_Clean_Arch.Domain.pdb
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\SMS_Clean_Arch\Core\SMS_Clean_Arch.Application\obj\Debug\net8.0\SMS_Clean_Arch.Application.csproj.AssemblyReference.cache
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\SMS_Clean_Arch\Core\SMS_Clean_Arch.Application\obj\Debug\net8.0\SMS_Clean_Arch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\SMS_Clean_Arch\Core\SMS_Clean_Arch.Application\obj\Debug\net8.0\SMS_Clean_Arch.Application.AssemblyInfoInputs.cache
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\SMS_Clean_Arch\Core\SMS_Clean_Arch.Application\obj\Debug\net8.0\SMS_Clean_Arch.Application.AssemblyInfo.cs
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\SMS_Clean_Arch\Core\SMS_Clean_Arch.Application\obj\Debug\net8.0\SMS_Clean_Arch.Application.csproj.CoreCompileInputs.cache
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\SMS_Clean_Arch\Core\SMS_Clean_Arch.Application\obj\Debug\net8.0\SMS_Clea.177CDC03.Up2Date
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\SMS_Clean_Arch\Core\SMS_Clean_Arch.Application\obj\Debug\net8.0\SMS_Clean_Arch.Application.dll
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\SMS_Clean_Arch\Core\SMS_Clean_Arch.Application\obj\Debug\net8.0\refint\SMS_Clean_Arch.Application.dll
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\SMS_Clean_Arch\Core\SMS_Clean_Arch.Application\obj\Debug\net8.0\SMS_Clean_Arch.Application.pdb
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\SMS_Clean_Arch\Core\SMS_Clean_Arch.Application\obj\Debug\net8.0\SMS_Clean_Arch.Application.genruntimeconfig.cache
+C:\Users\Samuel.adetogun\Desktop\KodeCamp\SMS_Clean_Arch\Core\SMS_Clean_Arch.Application\obj\Debug\net8.0\ref\SMS_Clean_Arch.Application.dll
