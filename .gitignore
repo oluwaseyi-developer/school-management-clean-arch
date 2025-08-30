@@ -1,0 +1,47 @@
+# Build outputs
+bin/
+obj/
+out/
+
+# Visual Studio / Rider / VS Code files
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.idea/
+.vscode/
+
+# Rider caches
+.idea/
+*.iml
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# ASP.NET / Blazor
+wwwroot/bin/
+wwwroot/obj/
+
+# Publish outputs
+*.Publish.xml
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Entity Framework migrations (optional if you want to track them, otherwise ignore)
+Migrations/
+
+# Secrets / sensitive files
+appsettings.Local.json
+appsettings.Secret.json
